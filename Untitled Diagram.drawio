@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T15:12:42.846Z" agent="5.0 (Windows)" etag="JlHDSgK8oTrSE_hqi9Zs" version="15.6.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-11-05T15:16:18.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GeZxYZVMvMxc5eG5OeMc" version="15.6.8" type="github" pages="8">
   <diagram id="XlmA86zmoPDfaHWqllxq" name="USE CASE DIAGRAM">
-    <mxGraphModel dx="1902" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LkaZG4py747y3I-5s54v-0" />
         <mxCell id="LkaZG4py747y3I-5s54v-1" parent="LkaZG4py747y3I-5s54v-0" />
@@ -156,7 +156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fatvrTFAMjXJUbtva_oi" name="DFD LV0">
-    <mxGraphModel dx="4240" dy="2673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3263" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,10 +210,10 @@
             <mxGeometry x="-1380" y="-1220" width="135" height="135" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H6pVCJNjKWXywIvom-xI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tghJi6o-llPgayYjcR82-11" target="tghJi6o-llPgayYjcR82-38">
+        <mxCell id="H6pVCJNjKWXywIvom-xI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tghJi6o-llPgayYjcR82-11" target="tghJi6o-llPgayYjcR82-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H6pVCJNjKWXywIvom-xI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tghJi6o-llPgayYjcR82-11" target="H6pVCJNjKWXywIvom-xI-5">
+        <mxCell id="H6pVCJNjKWXywIvom-xI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tghJi6o-llPgayYjcR82-11" target="H6pVCJNjKWXywIvom-xI-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Mahasiswa" lucidchartObjectId="ZW7ooDRBCHhA" id="tghJi6o-llPgayYjcR82-11">
@@ -374,7 +374,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6pVCJNjKWXywIvom-xI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tghJi6o-llPgayYjcR82-37" target="tghJi6o-llPgayYjcR82-38">
+        <mxCell id="H6pVCJNjKWXywIvom-xI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tghJi6o-llPgayYjcR82-37" target="tghJi6o-llPgayYjcR82-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Admin Kemahasiswaan" lucidchartObjectId="E97oBelPyP44" id="tghJi6o-llPgayYjcR82-37">
@@ -396,17 +396,17 @@
         <mxCell id="tghJi6o-llPgayYjcR82-50" value="&lt;div align=&quot;center&quot;&gt;&lt;ul style=&quot;margin: 0px ; padding-left: 10px ; list-style-position: inside ; list-style-type: disc&quot;&gt;&lt;li style=&quot;color: rgb(51 , 51 , 51) ; font-size: 16.7px&quot;&gt;&lt;span style=&quot;margin-left: 0px ; margin-top: -2px&quot;&gt;&lt;span style=&quot;font-size: 16.7px ; color: #333333&quot;&gt;Memverifikasi pembayaran&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-2150" y="-1040" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H6pVCJNjKWXywIvom-xI-5" value="Login" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="H6pVCJNjKWXywIvom-xI-5" value="Login" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-1790" y="-955" width="95" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="H6pVCJNjKWXywIvom-xI-8" value="&lt;div&gt;- Username&lt;/div&gt;&lt;div&gt;- Pasword&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="H6pVCJNjKWXywIvom-xI-8" value="&lt;div&gt;- Username&lt;/div&gt;&lt;div&gt;- Pasword&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1760" y="-1065" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="TduHplMcY-klA1fRTNC_" name="DFD LV1 Proses 1">
-    <mxGraphModel dx="1902" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Nyh4O6MvXoS33FgQ7Ns7-0" />
         <mxCell id="Nyh4O6MvXoS33FgQ7Ns7-1" parent="Nyh4O6MvXoS33FgQ7Ns7-0" />
@@ -729,7 +729,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kPqODI6IfYTEereTDhWa" name="DFD LV1 Proses5">
-    <mxGraphModel dx="1902" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1321" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ebMU4DQLJZY_eesiqW59-0" />
         <mxCell id="ebMU4DQLJZY_eesiqW59-1" parent="ebMU4DQLJZY_eesiqW59-0" />
@@ -739,7 +739,7 @@
         <mxCell id="hoon6yf5Zem_sgQZUW1o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="ebMU4DQLJZY_eesiqW59-1" source="qvwo-QQsGSWNf0nXJq16-0" target="hoon6yf5Zem_sgQZUW1o-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="968" y="323" />
+              <mxPoint x="940" y="323" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -850,15 +850,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GePQp1RSla1VrtA79m4G" name="DFD LV1 Proses6">
-    <mxGraphModel dx="1902" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="xwPC0TkwFA-UvJMJ33AY-0" />
         <mxCell id="xwPC0TkwFA-UvJMJ33AY-1" parent="xwPC0TkwFA-UvJMJ33AY-0" />
-        <mxCell id="V-j2Sbg8u40IPYMvAZ66-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="xwPC0TkwFA-UvJMJ33AY-1" source="V-j2Sbg8u40IPYMvAZ66-0" target="V-j2Sbg8u40IPYMvAZ66-1">
+        <mxCell id="V-j2Sbg8u40IPYMvAZ66-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xwPC0TkwFA-UvJMJ33AY-1" source="V-j2Sbg8u40IPYMvAZ66-0" target="V-j2Sbg8u40IPYMvAZ66-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Mahasiswa" lucidchartObjectId="E97oBelPyP44" id="V-j2Sbg8u40IPYMvAZ66-0">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="xwPC0TkwFA-UvJMJ33AY-1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="xwPC0TkwFA-UvJMJ33AY-1" vertex="1">
             <mxGeometry x="270" y="330" width="135" height="105" as="geometry" />
           </mxCell>
         </UserObject>
@@ -867,24 +867,29 @@
             <mxPoint x="577.5" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V-j2Sbg8u40IPYMvAZ66-1" value="Memasukkan username dan password" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xwPC0TkwFA-UvJMJ33AY-1">
+        <mxCell id="V-j2Sbg8u40IPYMvAZ66-1" value="Memasukkan username dan password" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="xwPC0TkwFA-UvJMJ33AY-1" vertex="1">
           <mxGeometry x="530" y="335" width="95" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="V-j2Sbg8u40IPYMvAZ66-3" value="&lt;div&gt;- Username&lt;/div&gt;&lt;div&gt;- Password&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xwPC0TkwFA-UvJMJ33AY-1">
+        <mxCell id="V-j2Sbg8u40IPYMvAZ66-3" value="&lt;div&gt;- Username&lt;/div&gt;&lt;div&gt;- Password&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xwPC0TkwFA-UvJMJ33AY-1" vertex="1">
           <mxGeometry x="430" y="343" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RWvjmz3s8zOYatE9YT-0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xwPC0TkwFA-UvJMJ33AY-1" source="RWvjmz3s8zOYatE9YT-0-0" target="RWvjmz3s8zOYatE9YT-0-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RWvjmz3s8zOYatE9YT-0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="xwPC0TkwFA-UvJMJ33AY-1" source="RWvjmz3s8zOYatE9YT-0-0" target="RWvjmz3s8zOYatE9YT-0-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="532" />
+              <mxPoint x="580" y="532" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="dbProfile" lucidchartObjectId="w27o8zYO7qZE" id="RWvjmz3s8zOYatE9YT-0-0">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" vertex="1" parent="xwPC0TkwFA-UvJMJ33AY-1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="xwPC0TkwFA-UvJMJ33AY-1" vertex="1">
             <mxGeometry x="510" y="520" width="150" height="75" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RWvjmz3s8zOYatE9YT-0-1" value="Berpindah ke halman utama" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xwPC0TkwFA-UvJMJ33AY-1">
+        <mxCell id="RWvjmz3s8zOYatE9YT-0-1" value="Pergi ke main page/error page" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="xwPC0TkwFA-UvJMJ33AY-1" vertex="1">
           <mxGeometry x="740" y="336" width="94" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="RWvjmz3s8zOYatE9YT-0-4" value="&lt;div&gt;- Username&lt;/div&gt;&lt;div&gt;- Password&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xwPC0TkwFA-UvJMJ33AY-1">
+        <mxCell id="RWvjmz3s8zOYatE9YT-0-4" value="&lt;div&gt;Hasil verifikasi&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xwPC0TkwFA-UvJMJ33AY-1" vertex="1">
           <mxGeometry x="490" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7SavBdtpU_7OzXoI4kJR-1" value="hasilVerifikasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xwPC0TkwFA-UvJMJ33AY-1">
